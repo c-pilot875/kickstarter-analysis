@@ -24,7 +24,7 @@ Performing analysis on Kickstarter data to uncover trends
 * Created a pivot table of the Kickstarter dataset filtered by Subcategory "Plays" and "Year".
 * Sorted Outcomes by decending
 * Created a line chart to visualize the outcomes based on dates.
-/Users/pilotdogsdata/Desktop/Analysis Projects/Crowdfunding Analysis/Challenge 1/Resourses/Theater_Outcomes_vs_Launch.png
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/115188500/196557075-66f0d018-cf06-4c43-81bf-3eb3902beb41.png)
 ---
 ### Analysis of Outcomes Based on Goals
 * Created a new sheet to count outcomes of the Kickstarter dataset organized by goal range 1000 - 50000 and filtered by subcategory "plays".
@@ -32,7 +32,7 @@ Performing analysis on Kickstarter data to uncover trends
 * Used the =sum() formula to calculate total project count taking outcome counts of successful, failed and canceled
 * Calculated percentage of outcomes by using =value/value formula, taking the outcome count and dividing by the total project count. Rendered the percentage columns to percentage type to achieve correct numerical values.
 * Created a line chart to visualize the outcomes based on goal amount. 
-/Users/pilotdogsdata/Desktop/Analysis Projects/Crowdfunding Analysis/Challenge 1/Resourses/Outcomes_vs_Goals.png
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/115188500/196557130-d1a1e9a3-2145-418b-9645-618d0dff970c.png)
 ---
 ### Challenges and Difficulties Encountered
 * Difficulty encountered at first data points for counting outcomes. Resolved by adding a 0 to the first range in the count formula. (mistake was <100, fix was <1000)
