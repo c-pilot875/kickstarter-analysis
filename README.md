@@ -9,5 +9,5 @@ Performing analysis on Kickstarter data to uncover trends
 ![Data Class Launch date Outcomes](https://user-images.githubusercontent.com/115188500/196483695-72a00bdc-c318-4939-a13d-e68a72fcb709.png)
 ---
 ## Suggestions
-* Launch a play campign in the US between April and June
+* Launch a play campaign in the US between April and June
 * Budget around $4000 for the goal
