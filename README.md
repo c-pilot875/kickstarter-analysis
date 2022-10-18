@@ -44,10 +44,10 @@ Performing analysis on Kickstarter data to uncover trends
 2 Peak failure launch dates for play campigns are May, and October
 
 - What can you conclude about the Outcomes based on Goals?
-1 Campaigns ranging goals less than 5000 and between 35000 and roughly 45000 had seen the highest success rate while campaigns ranging goals between 20000 and 35000 and over 45000 had seen the most failure.
+* Campaigns ranging goals less than 5000 and between 35000 and roughly 45000 had seen the highest success rate while campaigns ranging goals between 20000 and 35000 and over 45000 had seen the most failure.
 
 - What are some limitations of this dataset?
-1 limitations to this data include range points for percentages or a corralation bewtween launch date success/failure and goal amounts.
+* limitations to this data include range points for percentages or a corralation bewtween launch date success/failure and goal amounts.
 
 - What are some other possible tables and/or graphs that we could create?
-1 recommending graph to include most successful launch dates with goal range together.
+* Recommending graph to include most successful launch dates with goal range together.
